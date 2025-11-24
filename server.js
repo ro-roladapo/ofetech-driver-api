@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(
   cors({
     origin: [
-      "https://ofetechlogistics.com",
+      "https://ofetechlogistic.com",
       "https://ro-roladapo.github.io",
       "http://localhost:3000",
     ],
