@@ -12,7 +12,7 @@ app.use(
   cors({
     origin: [
       "https://ofetechlogistic.com",
-      "https://ro-roladapo.github.io",
+      "https://ofetechlogistic.com",
       "http://localhost:3000",
     ],
     methods: ["GET", "POST", "OPTIONS"],
